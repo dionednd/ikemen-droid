@@ -72,16 +72,7 @@ chars/kfm_zss/kfm.air
 chars/kfm_zss/ending.def
 chars/kfm_zss/hits.zss
 README.md
-lib/libavutil.so
-lib/libSDL2.so
-lib/libavfilter.so
-lib/libxmp.so
-lib/libswscale.so
-lib/libswresample.so
-lib/libavdevice.so
-lib/libavcodec.so
-lib/libavformat.so
-external/script/global.lua
+external/script/debug.lua
 external/script/main.lua
 external/script/menu.lua
 external/script/options.lua
